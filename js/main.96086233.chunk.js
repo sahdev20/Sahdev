@@ -177,21 +177,21 @@
                     })
                 },
                 p = [{
-                    year: "2015",
-                    degree: "ENGINEERING DEGREE",
-                    institute: "LJ Collage",
-                    // details: "  Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore\n        adipisicing elit"
-                 }, //{
-                //     year: "2012",
-                //     degree: "MASTER DEGREE",
-                //     institute: "KIEV UNIVERSITY",
-                //     details: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol\n        elit, tempor incididunt"
-                 //},
+                    year: "2022 - Present",
+                    degree: "MASTER DEGREE",
+                    institute: "University of California,Santa Cruz",
+                    details: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol\n        elit, tempor incididunt"
+                },{
+                    year: "2022",
+                    degree: "BACHELOR OF ENGINEERING DEGREE",
+                    institute: "LJ Institue of Engineering and Technology",
+                    details: "  Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore\n        adipisicing elit"
+                },
                   {
-                    year: "2009",
+                    year: "2018",
                     degree: "High School ",
                     institute: "THE H.B.Kapadia NEW HIGH SCHOOL",
-                    // details: "Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur\n        elit, sed do eiusmod tempor duntt"
+                    details: "Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur\n        elit, sed do eiusmod tempor duntt"
                 }],
                 O = function() {
                     return Object(o.jsx)("ul", {
@@ -220,19 +220,29 @@
                     })
                 },
                 h = [{
-                    year: "   2018 - Present",
+                    year: "   2020 - 2022",
                     position: " Web Developer",
-                    compnayName: "Envato",
+                    compnayName: "Royal Technosoft P. Limited",
                     details: "  Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore\n        adipisicing elit"
                 }, {
-                    year: "2013 - 2018",
-                    position: " UI/UX Designer",
-                    compnayName: "Themeforest",
-                    details: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol\n        elit, tempor incididunt"
+                    year: "January,2022 - March,2022",
+                    position: "Software Devloper",
+                    compnayName: "Unnati Informatics LLP",
+                    details: "Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur\n        elit, sed do eiusmod tempor duntt"
                 }, {
                     year: "2020 - 2021",
-                    position: "Assistant Professor",
-                    compnayName: "Videohive",
+                    position: "Teaching Assistant",
+                    compnayName: "Royal Technosoft P. Limited",
+                    details: "Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur\n        elit, sed do eiusmod tempor duntt"
+                }, {
+                    year: "Sept,2021",
+                    position: "Event Planner",
+                    compnayName: "SDM Event Planners",
+                    details: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol\n        elit, tempor incididunt"
+                }, {
+                    year: "May,2021 - July,2021",
+                    position: "Software Devloper",
+                    compnayName: "Arth Infosoft Pvt. Ltd.",
                     details: "Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur\n        elit, sed do eiusmod tempor duntt"
                 }],
                 g = function() {
@@ -269,7 +279,7 @@
                     metaInfo: "Patel"
                 }, {
                     meta: "Age",
-                    metaInfo: "21 Years"
+                    metaInfo: "22 Years"
                 }, {
                     meta: "Nationality",
                     metaInfo: "INDIAN"
@@ -278,16 +288,16 @@
                     metaInfo: "Available"
                 }, {
                     meta: "Address",
-                    metaInfo: "INDIA"
+                    metaInfo: "Santa Cruz, California, US"
                 }, {
                     meta: "phone",
-                    metaInfo: "+91-8980866438"
+                    metaInfo: "+1(925)738-8895"
                 }, {
                     meta: "Email",
                     metaInfo: "sahdevpatel2015@gmail.com"
                 }, {
                     meta: "Linkedin",
-                    metaInfo: ""
+                    metaInfo: "https://linkedin.com/in/sahdev-patel-295474210"
                 }, {
                     meta: "langages",
                     metaInfo: "English, Hindi"
@@ -309,24 +319,24 @@
                     })
                 },
                 f = [{
-                    skillClass: "p85",
-                    skillPercent: "85",
+                    skillClass: "p90",
+                    skillPercent: "90",
                     skillName: "HTML"
                 }, {
-                    skillClass: "p75",
-                    skillPercent: "75",
+                    skillClass: "p85",
+                    skillPercent: "85",
                     skillName: "JAVASCRIPT"
                 }, {
-                    skillClass: "p65",
-                    skillPercent: "65",
+                    skillClass: "p80",
+                    skillPercent: "80",
                     skillName: "CSS"
                 }, {
-                    skillClass: "p85",
-                    skillPercent: "85",
+                    skillClass: "p90",
+                    skillPercent: "90",
                     skillName: "Java"
                 }, {
-                    skillClass: "p85",
-                    skillPercent: "85",
+                    skillClass: "p90",
+                    skillPercent: "90",
                     skillName: "MEAN"
                 }, {
                     skillClass: "p90",
