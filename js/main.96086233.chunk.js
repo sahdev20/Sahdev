@@ -566,7 +566,7 @@
                             }), Object(o.jsx)("span", {
                                 className: "d-block",
                                 children: "Address Point"
-                            }), "Ahmedabad, Gujarat, India."]
+                            }), "Santa Cruz, California, US"]
                         }), Object(o.jsxs)("p", {
                             className: "open-sans-font custom-span-contact position-relative",
                             children: [Object(o.jsx)("i", {
@@ -586,8 +586,8 @@
                                 className: "d-block",
                                 children: "call me"
                             }), " ", Object(o.jsx)("a", {
-                                href: "Tel: +91-8980866438",
-                                children: "+91-8980866438"
+                                href: "Tel: +1(925)738-8895",
+                                children: "+1(925)738-8895"
                             })]
                         })]
                     })
